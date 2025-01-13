@@ -4,9 +4,9 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)  
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-orange)
 ## **Overview**
-This project leverages Machine Learning to confirm whether an image captures the corner marks of a smartphone screen and evaluates the quality of the captured image. The purpose is to assess the quality of the smartphone screen as represented in the image. 
+This project is part of the Bangkit Academy Capstone Project, developed in collaboration with Nusantara Beta Studio (NBS). The project leverages Machine Learning to confirm whether an image captures the corner marks of a smartphone screen and evaluates the quality of the captured image.
 
-Initially, the project used object detection with OpenCV. However, to enable online usage and embed the model in an application, the approach was transitioned to object classification using TensorFlow Lite (TFLite). The TFLite model classifies images to identify:
+The purpose is to assess the quality of the smartphone screen as represented in the image. Initially, the project used object detection with OpenCV. However, to enable online usage and embed the model in an application, the approach was transitioned to object classification using TensorFlow Lite (TFLite). The TFLite model classifies images to identify:
 - Whether all corners of the smartphone are visible.
 - The quality of the captured image.
 
