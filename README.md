@@ -1,5 +1,8 @@
 # **Detect Corner Mark on Device and Image Quality**
-
+![Version](https://img.shields.io/badge/Version-1.0-blue)  
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)   
+![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)  
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-orange)
 ## **Overview**
 This project leverages Machine Learning to confirm whether an image captures the corner marks of a smartphone screen and evaluates the quality of the captured image. The purpose is to assess the quality of the smartphone screen as represented in the image. 
 
